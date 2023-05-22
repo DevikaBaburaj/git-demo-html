@@ -1,4 +1,1 @@
-# Keyshell git-demo-html course
-Git basics
-Git merge
-Git stash
+This is a jenkins free style project
